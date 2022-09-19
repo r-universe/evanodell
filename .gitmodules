@@ -18,11 +18,6 @@
 	url = https://github.com/evanodell/guardianapi
 	shallow = true
 	registered = true
-[submodule "hansard"]
-	path = hansard
-	url = https://github.com/evanodell/hansard
-	shallow = true
-	registered = true
 [submodule "mnis"]
 	path = mnis
 	url = https://github.com/evanodell/mnis

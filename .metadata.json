@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "hansard",
-    "oncran": true
-  },
-  {
     "package": "mnis",
     "oncran": true
   },
