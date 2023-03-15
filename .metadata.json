@@ -1,5 +1,9 @@
 [
   {
+    "package": "threesixtygiving",
+    "oncran": true
+  },
+  {
     "package": "cqcr",
     "oncran": true
   },
@@ -12,14 +16,6 @@
     "oncran": true
   },
   {
-    "package": "hansard",
-    "oncran": true
-  },
-  {
-    "package": "mnis",
-    "oncran": true
-  },
-  {
     "package": "parlitools",
     "oncran": true
   },
@@ -28,11 +24,15 @@
     "oncran": true
   },
   {
-    "package": "threesixtygiving",
+    "package": "mnis",
     "oncran": true
   },
   {
     "package": "ukpolice",
+    "oncran": true
+  },
+  {
+    "package": "hansard",
     "oncran": true
   }
 ]
