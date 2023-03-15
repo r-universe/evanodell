@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "threesixtygiving"]
-	path = threesixtygiving
-	url = https://github.com/evanodell/threesixtygiving
-	shallow = true
-	registered = true
 [submodule "cqcr"]
 	path = cqcr
 	url = https://github.com/evanodell/cqcr
@@ -23,6 +18,16 @@
 	url = https://github.com/evanodell/guardianapi
 	shallow = true
 	registered = true
+[submodule "hansard"]
+	path = hansard
+	url = https://github.com/evanodell/hansard
+	shallow = true
+	registered = true
+[submodule "mnis"]
+	path = mnis
+	url = https://github.com/evanodell/mnis
+	shallow = true
+	registered = true
 [submodule "parlitools"]
 	path = parlitools
 	url = https://github.com/evanodell/parlitools
@@ -33,18 +38,13 @@
 	url = https://github.com/evanodell/refuge
 	shallow = true
 	registered = true
-[submodule "mnis"]
-	path = mnis
-	url = https://github.com/evanodell/mnis
+[submodule "threesixtygiving"]
+	path = threesixtygiving
+	url = https://github.com/evanodell/threesixtygiving
 	shallow = true
 	registered = true
 [submodule "ukpolice"]
 	path = ukpolice
 	url = https://github.com/evanodell/ukpolice
-	shallow = true
-	registered = true
-[submodule "hansard"]
-	path = hansard
-	url = https://github.com/evanodell/hansard
 	shallow = true
 	registered = true
