@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cqcr"]
 	path = cqcr
 	url = https://github.com/evanodell/cqcr
-	shallow = true
-	registered = true
 [submodule "fixerapi"]
 	path = fixerapi
 	url = https://github.com/evanodell/fixerapi
-	shallow = true
-	registered = true
 [submodule "guardianapi"]
 	path = guardianapi
 	url = https://github.com/evanodell/guardianapi
-	shallow = true
-	registered = true
 [submodule "hansard"]
 	path = hansard
 	url = https://github.com/evanodell/hansard
-	shallow = true
-	registered = true
 [submodule "mnis"]
 	path = mnis
 	url = https://github.com/evanodell/mnis
-	shallow = true
-	registered = true
 [submodule "parlitools"]
 	path = parlitools
 	url = https://github.com/evanodell/parlitools
-	shallow = true
-	registered = true
 [submodule "refuge"]
 	path = refuge
 	url = https://github.com/evanodell/refuge
-	shallow = true
-	registered = true
 [submodule "threesixtygiving"]
 	path = threesixtygiving
 	url = https://github.com/evanodell/threesixtygiving
-	shallow = true
-	registered = true
 [submodule "ukpolice"]
 	path = ukpolice
 	url = https://github.com/evanodell/ukpolice
-	shallow = true
-	registered = true
