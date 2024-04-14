@@ -14,9 +14,6 @@
 [submodule "mnis"]
 	path = mnis
 	url = https://github.com/evanodell/mnis
-[submodule "parlitools"]
-	path = parlitools
-	url = https://github.com/evanodell/parlitools
 [submodule "refuge"]
 	path = refuge
 	url = https://github.com/evanodell/refuge
