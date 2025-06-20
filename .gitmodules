@@ -8,9 +8,6 @@
 [submodule "guardianapi"]
 	path = guardianapi
 	url = https://github.com/evanodell/guardianapi
-[submodule "mnis"]
-	path = mnis
-	url = https://github.com/evanodell/mnis
 [submodule "refuge"]
 	path = refuge
 	url = https://github.com/evanodell/refuge
